@@ -1,6 +1,6 @@
 # Nutrition Facts
 
-> A  Nutrition label webpage built by styling text, adjustING line height and positioning of text using CSS.
+> A Nutrition label webpage built by styling text, adjustING line height and positioning of text using CSS.
 
 ![screenshot](./app_screenshot.png)
 
@@ -12,7 +12,7 @@ Additional description of the project and its features.
 - div
 - p
 - header
-- CSS, universal selector ,body ,pseudo-selector  
+- CSS, universal selector ,body ,pseudo-selector
 
 ## Live Demo
 
