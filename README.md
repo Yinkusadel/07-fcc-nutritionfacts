@@ -1,6 +1,6 @@
-# Project Name
+# Nutrition Facts
 
-> One paragraph statement about the project.
+> A  Nutrition label webpage built by styling text, adjustING line height and positioning of text using CSS.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,13 +8,15 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- html
+- div
+- p
+- header
+- CSS, universal selector ,body ,pseudo-selector  
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://08-fcc-nutritionfacts.netlify.app)
 
 ### Development (Running locally)
 
