@@ -8,11 +8,24 @@ Additional description of the project and its features.
 
 ## Built With
 
-- html
-- div
-- p
-- header
-- CSS, universal selector ,body ,pseudo-selector
+- ### HTML5 elements
+  - **Heading element**
+    `h1` `header`
+  - **Block element**
+    `div` `p`
+  - **Inline element**
+    `span`
+- ### CSS properties
+  - CSS float for wrapping text and inline elements
+  - CSS `text indent`
+  - CSS overflow `hidden`
+  - CSS background for page aesthetic using `background-color`
+  - CSS selectors `class selector` `pseudo selector` `universal selector`
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 
